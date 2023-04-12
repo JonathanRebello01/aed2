@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "stdlib.h": "c",
+        "questao01.h": "c",
+        "questao03.h": "c",
+        "questao19.h": "c",
+        "questao24.h": "c"
+    }
+}
