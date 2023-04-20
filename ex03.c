@@ -13,7 +13,7 @@ int somaP(int *valor1, int *valor2, int *valor3)
 
 int main()
 {
-    /*
+    
         int numero = 10;
         int *ponteiro = NULL;
 
@@ -24,15 +24,15 @@ int main()
         printf("%d\n", numero);
         printf("%ld\n", &numero);
         printf("%d", *ponteiro);
-    */
+    
 
     int numero1 = 10;
     int numero2 = 30;
     int resultado = 0;
 
-    somaP(&numero1, &numero2, &resultado);
+    // somaP(&numero1, &numero2, &resultado);
 
-    printf("Resultado: %d", resultado);
+   // printf("Resultado: %d", resultado);
 
     return 0;
 }
